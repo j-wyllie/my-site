@@ -1,1 +1,5 @@
-# <h1>Welcome to my homepage</h1>
+# My profile site
+
+Builds on a nginx docker container.
+
+Deploy script found at deploy.sh
