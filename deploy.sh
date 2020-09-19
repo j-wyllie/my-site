@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo -e "\e[96m Logging into docker...\e[0m"
 docker login
 
