@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# A pre push deploy hook.
+# Deploys the new image to the EC2 instance.
+# Remeber to setup ec2-ubuntu-0 in .ssh/config
+
 echo -e "\e[96m Logging into docker...\e[0m"
 docker login
 
