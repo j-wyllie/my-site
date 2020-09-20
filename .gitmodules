@@ -1,0 +1,3 @@
+[submodule "LinkFree"]
+	path = LinkFree
+	url = git@github.com:j-wyllie/LinkFree.git
